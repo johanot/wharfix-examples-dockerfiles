@@ -1,3 +1,3 @@
 {
-  lol = { context = "images/lol" }; 
+  lol = { context = "images/lol"; }; 
 }
