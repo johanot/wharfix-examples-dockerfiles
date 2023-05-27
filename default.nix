@@ -1,0 +1,3 @@
+{
+  lol = { context = "images/lol" }; 
+}
